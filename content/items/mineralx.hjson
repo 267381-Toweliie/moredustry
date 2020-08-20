@@ -1,0 +1,6 @@
+type: material
+name: Mineral X
+description: Recently discovered by scientists, his purpose is not yet fully known. So far it's being used for complex chemical reactions or as a catalyst.
+hardness: 6
+cost: 6
+color: fffd94

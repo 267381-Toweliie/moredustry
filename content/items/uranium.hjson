@@ -1,0 +1,6 @@
+type: material
+name: Uranium
+description: A radioactive, unstable element used for fueling very powerful reactors and explosives. Proceed with care.
+hardness: 5
+cost: 5
+color: 617d50
