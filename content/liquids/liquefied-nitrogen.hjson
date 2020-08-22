@@ -1,0 +1,7 @@
+name: Liquified Nitrogen
+heatCapacity: 2.0
+viscosity: 3
+explovisiness: 0
+effect: none
+statusEffect: freezing
+color: cffdff
