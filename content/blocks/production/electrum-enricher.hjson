@@ -1,0 +1,33 @@
+liquidCapacity: 80
+name: Electrum Enricher
+description: A powerful machine that turns Silver and Electrum into Enriched Electrum. Requires water as a base reagent. Usable in nuclear fusion and some more advanced chemical reactions.
+outputLiquid: {
+  liquid: enriched-electrum
+  amount: 24
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 180
+consumes: {
+  power: 0.9
+  items: {
+    items: [
+      surge-alloy/1,
+      silver/2
+    ]
+  }
+  liquid: water/2
+}
+requirements: [
+  graphite/80
+  silicon/100
+  titanium/30
+  silver/50
+  lead/50
+  surge-alloy/10
+]
+category: crafting
+research: cryofluidmixer
+idleSound: respawning
+idleSoundVolume: 0.5

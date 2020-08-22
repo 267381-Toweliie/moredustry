@@ -1,0 +1,27 @@
+type: Drill
+name: Adamantium Drill
+description: More empowered version of Thorium drill, faster and more efficient, but needs cryofluid as catalyst.
+size: 4
+tier: 6
+drawRim: true
+itemCapacity: 30
+drillTime: 180
+liquidCapacity: 30,
+rotateSpeed: -5
+consumes: {
+  power: 5
+  liquid: {
+    liquid: "cryofluid"
+    amount: 0.08
+    booster: true
+    optional: true
+  }
+}
+requirements: [
+  adamantium/100,
+  thorium/125,
+  titanium/200,
+  silicon/250
+]
+category: production
+research: blast-drill

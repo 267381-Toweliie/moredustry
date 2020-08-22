@@ -1,6 +1,8 @@
 liquidCapacity: 50
+name: Liquid Nitrogen Synthesizer
+description: Advanced machine for creating even better cooling fluid - liquid nitrogen. Useful in fusion reactor and in most of the advanced machinery in this mod. Consumes Mineral X as a catalyst along with Titanium.
 outputLiquid: {
-  liquid: liquified-nitrogen
+  liquid: liquefied-nitrogen
   amount: 24
 }
 size: 2

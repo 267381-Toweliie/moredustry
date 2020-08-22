@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/267381-Toweliie/moredustry/issues"
   },
-  "homepage": "https://github.com/267381-Toweliie/moredustry#readme"
+  "homepage": "https://github.com/267381-Toweliie/moredustry#readme",
+  "dependencies": {
+    "archiver": "^5.0.0",
+    "moment": "^2.27.0"
+  }
 }

@@ -1,0 +1,6 @@
+type: material
+name: Silver
+description: Generic silver - valuable, shiny. Used for refinement and as reagent for some nifty chemical reactions.
+hardness: 4
+cost: 3
+color: e1e1e1

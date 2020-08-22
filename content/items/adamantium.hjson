@@ -1,6 +1,6 @@
 type: material
-name: Mineral X
-description: Recently discovered by scientists, his purpose is not yet fully known. So far it's being used for complex chemical reactions or as a catalyst.
-hardness: 6
-cost: 6
-color: fffd94
+name: Adamantium
+description: Extremely hard metal, used to craft even faster and more durable drills and machines. Necessary to advance further, relatively rare.
+hardness: 5
+cost: 4
+color: ed5410

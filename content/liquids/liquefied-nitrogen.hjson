@@ -1,6 +1,6 @@
-name: Liquified Nitrogen
+name: Liquefied Nitrogen
 heatCapacity: 2.0
-viscosity: 3
+viscosity: 0.8
 explovisiness: 0
 effect: none
 statusEffect: freezing

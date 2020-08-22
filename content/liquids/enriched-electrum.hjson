@@ -1,0 +1,7 @@
+temperature: 1
+viscosity: 0.9
+damage: 1
+explovisiness: 1.2
+effect: burning
+statusEffect: melting
+color: ffd874
